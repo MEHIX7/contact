@@ -50,6 +50,12 @@ img#logo {
   object-fit: cover;
 }
 
+img#imgy {
+  width: 30px;
+  object-fit: cover;
+  border-radius: 15px;
+}
+
 .box {
   display: block;
   margin-left: auto;
