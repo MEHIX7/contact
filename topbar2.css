@@ -74,7 +74,7 @@ img#imgy {
 }
 
 p#text {
-  color: #00ff00;
+  color: #475a9f;
   font-family: Arial;
 }
 
@@ -162,7 +162,7 @@ border-radius: 40px;
     }
   
     p#text {
-      color:#00d2ff;
+      color:#475a9f;
       font-family: Arial;
       font-size: 19px;
     }
