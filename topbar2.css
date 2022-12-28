@@ -78,13 +78,6 @@ p#text {
   font-family: Arial;
 }
 
-p#textmoi {
-  font-family: monospace;
-  margin-bottom: -0px;
-  margin-right: -120px;
-  font-size: 12px;
-}
-
 .box::before,
 .box::after {
 content: '';
@@ -165,11 +158,6 @@ border-radius: 40px;
       color:#475a9f;
       font-family: Arial;
       font-size: 19px;
-    }
-  
-    p#textmoi {
-      font-family: monospace;
-      font-size: 15px;
     }
 
   .box:hover {
