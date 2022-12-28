@@ -73,6 +73,7 @@ img#imgy {
   padding: 5px 8px;
   font-family: Roboto;
   color: #0000ff;
+  font-size: 45%;
 }
 
 p#text {
@@ -153,12 +154,13 @@ border-radius: 40px;
       padding: 5px 8px;
       font-family: Roboto;
       color: #0000ff;
+      font-size: 60%
     }
   
     p#text {
       color:#475a9f;
       font-family: Arial;
-      font-size: 19px;
+      font-size: 17px;
     }
   
     p#info {
