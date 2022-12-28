@@ -42,7 +42,8 @@ img#imgd {
 }
 
 p#info {
-  font-size: 12px;
+  font-size: 9px;
+  color: #20acd8;
 }
 
 img#logo {
@@ -73,7 +74,7 @@ img#imgy {
   padding: 5px 8px;
   font-family: Roboto;
   color: #0000ff;
-  font-size: 40%;
+  font-size: 35%;
 }
 
 p#text {
