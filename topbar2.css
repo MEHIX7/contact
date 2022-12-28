@@ -42,7 +42,7 @@ img#imgd {
 }
 
 p#info {
-  widht: 25%;
+  font-size: 12px;
 }
 
 img#logo {
@@ -79,6 +79,7 @@ img#imgy {
 p#text {
   color: #475a9f;
   font-family: Arial;
+  widht: 25%;
 }
 
 .box::before,
@@ -154,7 +155,7 @@ border-radius: 40px;
       padding: 5px 8px;
       font-family: Roboto;
       color: #0000ff;
-      font-size: 60%
+      font-size: 57%
     }
   
     p#text {
