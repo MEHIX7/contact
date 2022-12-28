@@ -41,6 +41,10 @@ img#imgd {
   width: 30px;
 }
 
+p#info {
+  widht: 25%;
+}
+
 img#logo {
   display: block;
   margin: auto;
