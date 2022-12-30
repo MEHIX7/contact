@@ -96,7 +96,7 @@ transform: scale(1.02);
 z-index: -1;
 background-size: 500%;
 animation: animate 20s infinite;
-border-radius: 40px;
+border-radius: 20px;
 }
 
 
