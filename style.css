@@ -12,10 +12,8 @@ ul {
   justify-content:space-between;
   flex-wrap: wrap;
   list-style: none;
-  background-color: black;
-  border-radius: 40px;
-  margin:  20px 25px 20px 25px ;
-  padding: 20px 25px 20px 25px ;
+  border-radius: 29px;
+  padding: 23px 25px 23px 25px ;
   font-size: 18px;
   font-weight: 500;
   font-family: 'Catamaran', sans-serif;
