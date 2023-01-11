@@ -29,7 +29,7 @@ li {
 li a {
   display: flex;
   color: white;
-  height: 40px;
+  height: 50px;
   align-items: center;
   text-decoration: none;
 }
@@ -79,8 +79,9 @@ img#imgy {
 
 p#text {
   color: #475a9f;
-  font-family: Arial;
-  widht: 25%;
+  font-family: 'Catamaran', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  widht: 23%;
 }
 
 .box::before,
