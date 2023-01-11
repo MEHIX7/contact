@@ -16,7 +16,6 @@ ul {
   border-radius: 40px;
   margin:  20px 20px 20px 20px ;
   padding: 20px 20px 20px 20px ;
-  font-family: arial;
   font-size: 18px;
   font-family: 'Catamaran', sans-serif;
   font-family: 'Montserrat', sans-serif;
@@ -123,8 +122,8 @@ border-radius: 20px;
       overflow: hidden;
       background-color: #333;
       border-radius: 40px;
-      font-family:Arial;
-      font-family: Roboto;
+      font-family: 'Catamaran', sans-serif;
+      font-family: 'Montserrat', sans-serif;
     }
     
     li {
